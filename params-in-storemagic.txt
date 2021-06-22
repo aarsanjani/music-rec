@@ -1,0 +1,14 @@
+dw_ecrlist                           -> {'region': {'us-west-2': '174368400705', 'us-east-
+fg_name_ratings                      -> 'ratings-feature-group-13-03-22-53-fcdc820e'
+fg_name_tracks                       -> 'track-features-13-03-22-53-fcdc820e'
+fg_name_user_preferences             -> 'user-5star-track-features-13-03-22-53-fcdc820e'
+flow_export_id                       -> '13-03-22-53-fcdc820e'
+flow_s3_uri                          -> 's3://sagemaker-us-west-1-738335684114/music-recom
+model_path                           -> 's://sagemaker-us-west-1-738335684114/music-recomm
+prefix                               -> 'music-recommendation'
+ratings_data_source                  -> 's3://sagemaker-us-west-1-738335684114/music-recom
+s3_output_path                       -> 's3://sagemaker-us-west-1-738335684114'
+tracks_data_source                   -> 's3://sagemaker-us-west-1-738335684114/music-recom
+train_data_uri                       -> 's3://sagemaker-us-west-1-738335684114/music-recom
+training_job_name                    -> 'sagemaker-xgboost-2021-06-13-23-56-09-766'
+val_data_uri                         -> 's3://sagemaker-us-west-1-738335684114/music-recom
